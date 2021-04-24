@@ -1,0 +1,1 @@
+worker: python Chd_Covid_bot.py
